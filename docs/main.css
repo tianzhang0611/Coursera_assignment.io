@@ -6,3 +6,10 @@ h1 {
 P {
   text-decoration: underline;
 }
+#testP {
+  display: inline-block;
+  height: 100px;
+  background-color: aquamarine;
+  text-align: center;
+  /* padding: 10px 0px 10px 0px; */
+}
